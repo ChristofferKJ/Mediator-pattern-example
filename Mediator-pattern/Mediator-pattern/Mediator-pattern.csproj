@@ -43,13 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App.cs" />
-    <Compile Include="Classes\Boeing52.cs" />
-    <Compile Include="Classes\Boeing737.cs" />
-    <Compile Include="Classes\ApacheHeli.cs" />
-    <Compile Include="Classes\ControlTower.cs" />
-    <Compile Include="Interfaces\IControlTowerMediator.cs" />
-    <Compile Include="Interfaces\IAircraft.cs" />
+    <Compile Include="RunApp.cs" />
+    <Compile Include="Classes\Aircraft.cs" />
+    <Compile Include="Classes\Landingstrip.cs" />
+    <Compile Include="Classes\ControlTowerMediator.cs" />
+    <Compile Include="Classes\ColleagueBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

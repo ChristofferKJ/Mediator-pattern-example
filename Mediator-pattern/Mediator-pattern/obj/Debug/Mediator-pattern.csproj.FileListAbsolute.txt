@@ -5,3 +5,10 @@ C:\Users\chris\source\repos\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator
 C:\Users\chris\source\repos\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator-pattern.csproj.CoreCompileInputs.cache
 C:\Users\chris\source\repos\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator-pattern.exe
 C:\Users\chris\source\repos\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator-pattern.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4SWD\Mediator-PAttern\Mediator-pattern-example\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator-pattern.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4SWD\Mediator-PAttern\Mediator-pattern-example\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator-pattern.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4SWD\Mediator-PAttern\Mediator-pattern-example\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator-pattern.exe
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4SWD\Mediator-PAttern\Mediator-pattern-example\Mediator-pattern\Mediator-pattern\obj\Debug\Mediator-pattern.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4SWD\Mediator-PAttern\Mediator-pattern-example\Mediator-pattern\Mediator-pattern\bin\Debug\Mediator-pattern.exe.config
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4SWD\Mediator-PAttern\Mediator-pattern-example\Mediator-pattern\Mediator-pattern\bin\Debug\Mediator-pattern.exe
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4SWD\Mediator-PAttern\Mediator-pattern-example\Mediator-pattern\Mediator-pattern\bin\Debug\Mediator-pattern.pdb
